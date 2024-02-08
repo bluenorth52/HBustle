@@ -5,7 +5,7 @@ Hello, my name is Haley and I am transitioning to data analysis with a professio
 - Email: boudler5252@gmail.com
 - LinkedIn: (Your LinkedIn URL)
 
-[[Download My Resume](https://github.com/bluenorth52/HBustle/blob/main/Bustle%2C%20Haley%20Resume)]
+[Download My Resume](https://github.com/bluenorth52/HBustle/blob/main/Bustle,Haley%20Resume)
 
 ## My Projects
 - [Firearms Education Project](https://github.com/bluenorth52/Firearm-Education-Project) - A study on the relationship of firearm deaths in comparrision to the total U.S. population.
