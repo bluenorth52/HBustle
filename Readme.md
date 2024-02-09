@@ -8,7 +8,7 @@ Hello, my name is Haley and I am transitioning to data analysis with a professio
 [Download My Resume](https://github.com/bluenorth52/HBustle/blob/main/1.5%20Bustle%20Resume%20Template.docx)
 
 ## My Projects
-- [[Firearms Education Project](https://github.com/bluenorth52/HBustle/blob/main/FirearmCaseStudy.md)] - A study on the relationship of firearm deaths in comparrision to the total U.S. population.
+- [Firearms Education Project(https://github.com/bluenorth52/HBustle/blob/main/FirearmCaseStudy.md)] - A study on the relationship of firearm deaths in comparrision to the total U.S. population.
 - [Instacart Basket Analysis Project](https://github.com/bluenorth52/Instacart_Sales_Analysis) - Analyzing shopping patterns to improve Instacart's customer experience.
 - [US Influenza Preparedness](https://github.com/bluenorth52/Influenza-Staffing-Project) - A study assisting a medical staffing agency prepare for the upcoming flu season.
 - [Rockbuster Stealth LLC Project](https://github.com/bluenorth52/Rockbuster_Sales_SQL) - Analysis of movie rental trends to help Rockbuster Stealth LLC create their own online movie rental service.
