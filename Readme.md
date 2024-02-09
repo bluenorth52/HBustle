@@ -9,6 +9,6 @@ Hello, my name is Haley and I am transitioning to data analysis with a professio
 
 ## My Projects
 - [Firearms Education Project](FirearmCaseStudy.md) - A study on the relationship of firearm deaths in comparrision to the total U.S. population.
-- [Instacart Basket Analysis Project](InfluenzaCaseStudy.md) - Analyzing shopping patterns to improve Instacart's customer experience.
-- [US Influenza Preparedness](https://github.com/bluenorth52/Influenza-Staffing-Project) - A study assisting a medical staffing agency prepare for the upcoming flu season.
+- [US Influenza Preparedness](InfluenzaCaseStudy.md) - A study assisting a medical staffing agency prepare for the upcoming flu season. 
+- [Instacart Basket Analysis](https://github.com/bluenorth52/Influenza-Staffing-Project) - Analyzing shopping patterns to improve Instacart's customer experience.
 - [Rockbuster Stealth LLC Project](https://github.com/bluenorth52/Rockbuster_Sales_SQL) - Analysis of movie rental trends to help Rockbuster Stealth LLC create their own online movie rental service.
