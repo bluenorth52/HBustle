@@ -1,6 +1,6 @@
-# About Me (about.md)
+# [About Me](https://github.com/bluenorth52/HBustle/blob/main/about.md)
 
-# Contact Me (contact.md
+# [Contact Me](https://github.com/bluenorth52/HBustle/blob/main/contact.md)
 
 ## My Projects
 - [Firearms Education Project](FirearmCaseStudy.md) - A study on the relationship of firearm deaths in comparrision to the total U.S. population.
