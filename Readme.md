@@ -1,7 +1,7 @@
-# [About Me]
+# About Me
 Hello, my name is Haley and I am transitioning to data analysis with a professional background in customer service and patient scheduling through my occupation at the Cleveland Clinic Foundation. My position there allowed me to sharpen my skills in communication, problem-solving, and adaptability, skills that are crucial when analyzing and interpreting data. Despite my lack of direct experience in data analysis, my enthusiasm for leaning and my adaptable skills leverage me into a position to be a valuable addition to your team. I am committed to continue improving on my existing skills and learning new tools that will produce positive business outcomes.
 
-# [Contact Me]
+# Contact Me
 - Email: boudler5252@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/haley-bustle-013313256?trk=contact-info)
 
