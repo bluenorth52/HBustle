@@ -10,6 +10,6 @@ Hello, my name is Haley and I am transitioning to data analysis with a professio
 
 ## My Projects
 - [Firearms Education Project](FirearmCaseStudy.md) - A study on the relationship of firearm deaths in comparrision to the total U.S. population. [View My Case Study](https://github.com/bluenorth52/Firearm-Education-Project/blob/main/Case%20Study%20Firearm%20Education.pptx) to see a project summary.
-- [US Influenza Preparedness](InfluenzaCaseStudy.md) - A study assisting a medical staffing agency prepare for the upcoming flu season. [View My Case Study](https://github.com/bluenorth52/Influenza-Staffing-Project/blob/main/Case%20Study%20Influenza%20Staffing.pptx) to see a project summary.
+- [US Influenza Preparedness](InfluenzaCaseStudy.md) - A study assisting a medical staffing agency prepare for the upcoming flu season. [[View My Case Study]](https://drive.google.com/file/d/1p9wpo7TBES13h58630ze_cpiENGHdB6t/vi) to see a project summary.
 - [Instacart Basket Analysis](IntsacartCaseStudy.md) - Analyzing shopping patterns to improve Instacart's customer experience. [View My Case Study](https://github.com/bluenorth52/Instacart_Sales_Analysis/blob/main/Case%20Study%20Instacart%20Project.pptx) to see a project summary.
 - [Rockbuster Stealth LLC Project](RockbusterCaseStudy.md) - Analysis of movie rental trends to help Rockbuster Stealth LLC create their own online movie rental service. [View My Case Study](https://github.com/bluenorth52/Rockbuster_Sales_SQL/blob/main/Case%20Study%20Rockbuster%20Stealth.pptx) to see a project summary.
